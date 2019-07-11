@@ -23,5 +23,5 @@ Contains Documents of System Analysis & Design Laboratory.
 ## 4: Project 
 ### [House Management System]
 #### 4.1. Presentation.
-#### 4.2. [Report]
+#### 4.2. [Report](https://github.com/SheulyDas/system-Analysis-design/blob/master/House--Management-system/Hms%20report%20Sheuly%20Das.pdf)
 
