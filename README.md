@@ -13,11 +13,11 @@ Contains Documents of System Analysis & Design Laboratory.
 
 ## 3: Lab Assignment
 #### [Assignment-1]
-3.1 [Generalization & Association Code]
+3.1 [Generalization & Association Code](https://github.com/SheulyDas/system-Analysis-design/tree/master/Lab%20Assignment%201/Association)
 
-3.2 [Re-drawn Class diagram]
+3.2 [Re-drawn Class diagram](https://github.com/SheulyDas/system-Analysis-design/blob/master/Lab%20Assignment%201/Association.png)
 
-3.3 [Report]
+3.3 [Report](https://github.com/SheulyDas/system-Analysis-design/blob/master/Lab%20Assignment%201/Generalization%20%26%20Association.pdf)
 
 
 ## 4: Project 
