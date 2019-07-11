@@ -13,7 +13,7 @@ Contains Documents of System Analysis & Design Laboratory.
 
 ## 3: Lab Assignment
 #### [Assignment-1]
-3.1 [Generalization & Association Code](https://github.com/SheulyDas/system-Analysis-design/tree/master/Lab%20Assignment%201/Association)
+3.1 [Generalization & Association Source Code](https://github.com/SheulyDas/system-Analysis-design/tree/master/Lab%20Assignment%201/Association)
 
 3.2 [Re-drawn Class diagram](https://github.com/SheulyDas/system-Analysis-design/blob/master/Lab%20Assignment%201/Association.png)
 
@@ -24,5 +24,5 @@ Contains Documents of System Analysis & Design Laboratory.
 ### [House Management System]
 #### 4.1. Presentation.
 #### 4.2. [Report.](https://github.com/SheulyDas/system-Analysis-design/blob/master/House--Management-system/Hms%20report%20Sheuly%20Das.pdf)
-#### 4.3. [Source Code.](https://github.com/SheulyDas/system-Analysis-design/tree/master/House--Management-system/House-Rent-Management)
+#### 4.3. [HMS Source Code.](https://github.com/SheulyDas/system-Analysis-design/tree/master/House--Management-system/House-Rent-Management)
 
