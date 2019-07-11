@@ -11,17 +11,17 @@ Contains Documents of System Analysis & Design.
 Contains Documents of System Analysis & Design Laboratory. 
 
 
-## 4: Lab Assignment
+## 3: Lab Assignment
 #### [Assignment-1]
-4.1 [Generalization & Association Code]
+3.1 [Generalization & Association Code]
 
-4.2 [Re-drawn Class diagram]
+3.2 [Re-drawn Class diagram]
 
-4.3 [Report]
+3.3 [Report]
 
 
-## 5: Project 
+## 4: Project 
 ### [House Management System]
-#### 5.1. Presentation.
-#### 5.2. [Report]
+#### 4.1. Presentation.
+#### 4.2. [Report]
 
